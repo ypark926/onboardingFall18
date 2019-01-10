@@ -21,5 +21,19 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "Congratulations on joining DEV - we are very excited to have you on board!",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ypark926/onboardingFall18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ypark926/onboardingFall18/issues"
+  },
+  "homepage": "https://github.com/ypark926/onboardingFall18#readme"
 }

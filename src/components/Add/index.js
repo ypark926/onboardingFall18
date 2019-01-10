@@ -1,10 +1,8 @@
 import React, { Component } from "react";
 import ToDoContainer from "./components/ToDoContainer";
 
-class App extends Component {
-  render() {
-    return <ToDoContainer />;
-  }
-}
+const NoText = ({text}) => (
+  <h1>{text}</h1>
+);
 
-export default App;
+export default NoText;
